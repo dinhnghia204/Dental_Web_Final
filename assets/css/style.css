@@ -478,12 +478,12 @@ h1:hover {
   margin-block: 10px 15px;
 }
 
-.doctor-card .card-social-list {
+/* .doctor-card .card-social-list {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 10px;
-}
+} */
 
 .doctor-card .card-social-link {
   background-color: var(--lavender-web);

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="assets\css\booking.css">
+    <title>Đặt lịch khám</title>
+    <script src="assets\js\bookk.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Đặt lịch khám với bác sĩ</h1>
+        <form id="appointment-form">
+            <label for="patient-name">Họ và tên:</label>
+            <input type="text" id="patient-name" placeholder="Nhập họ và tên"  required>
+
+            <label for="phone-number">Số điện thoại:</label>
+            <input type="tel" id="phone-number" pattern="[0-9]{10}" placeholder="Nhập số điện thoại" required>
+            
+            <label for="doctor">Bác sĩ:</label>
+            <select id="doctor" required>
+                <option value="doctor1">Bác sĩ 1</option>
+                <option value="doctor2">Bác sĩ 2</option>
+                <option value="doctor3">Bác sĩ 3</option>
+            </select>
+
+            <label for="appointment-date">Ngày khám:</label>
+            <input type="date" id="appointment-date" required>
+
+            <label for="appointment-time">Giờ khám:</label>
+            <input type="time" id="appointment-time" required>
+
+            <button type="submit">Đặt lịch</button>
+        </form>
+    </div>
+
+</body>
+</html>
