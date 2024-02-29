@@ -252,7 +252,9 @@ h1:hover {
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
-
+.header{
+  height: 150px;
+}
 .header-top,
 .header-bottom .btn { display: none; }
 
@@ -378,10 +380,11 @@ h1:hover {
   margin-block-end: 15px;
 }
 
-.hero-form .btn { width: 100%; }
+.hero-content .btn {
+  width: 50%; 
+  padding-inline: 15px;
 
-
-
+}
 
 
 /*-----------------------------------*\
