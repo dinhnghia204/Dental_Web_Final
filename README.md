@@ -8,7 +8,7 @@
 
   <h2 aligne="center">Dental website</h2>
 
-  Dentelo is a fully responsive dental website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  git clone https://github.com/dinhnghia204/Dental_Web_Final<br />
 
   <a href="https://github.com/dinhnghia204/Dental_Web_Final/"><strong>➥ Live Demo</strong></a>
 
@@ -16,4 +16,7 @@
 
 <br />
 
+
+
+```
 
