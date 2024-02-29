@@ -8,9 +8,9 @@
 
   <h2 aligne="center">Dental website</h2>
 
-  git clone https://github.com/dinhnghia204/Dental_Web_Final<br />
+  git clone https://dinhnghia204.github.io/Dental_Web_Final/<br />
 
-  <a href="https://github.com/dinhnghia204/Dental_Web_Final/"><strong>➥ Live Demo</strong></a>
+  <a href="https://dinhnghia204.github.io/Dental_Web_Final/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
